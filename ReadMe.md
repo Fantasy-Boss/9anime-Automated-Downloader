@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <b style="font-size: 30px;">9anime Automated Downloader</b>
+    <b style="font-size: 72px;">9anime Automated Downloader</b>
 </p>
 
 * * *
@@ -13,7 +13,6 @@
 
 The ***9anime Automated Downloader*** is a Python script that automates the process of downloading episodes from official 9anime websites. This script is designed to bulk download the whole series, saving you time and effort. It automates all the clicking process required for downloading episodes.
 
-* * *
 
 ## Features
 
@@ -23,23 +22,21 @@ The ***9anime Automated Downloader*** is a Python script that automates the proc
 -  -  > [9anime.id](https://9anime.id/home)
 -  -  > [9anime.pl](https://9anime.pl/home)
 -  -  > [9anime.gs](https://9anime.gs/home)
-- Bulk download entire series with one click.
-- User-friendly interface
-- Download options: Sub - Dub - Video Quality.
+- Bulk download entire series with one click
+- Download options: Sub - Dub - Video Quality
 - Fully Free, no Ads, no Virus, 100% Safe
+- User-friendly interface
 - Saves time and effort
 
-* * *
 
 ## Requirements
 
-- Python 3.10.11 or greater.
+- [Python 3.10.11](https://www.python.org/downloads/release/python-31011/) or greater.
 - Browser you want to use. (Chrome or Firefox)
 - Internet Download Manager (IDM), with browser integration.
 - Browser AdBlocker Extension. (Skip this if you already have one)
     > [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb) - [AdBlock_best ad blocker](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom) - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - [AdGuard AdBlocker](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg)
 
-* * *
 
 ## How to use
 
@@ -55,16 +52,20 @@ Or,
 
 4. Install all the dependencies by running `"install.bat"` as administrator. [__One time run, but important__]
 
-5. Run the `"9anime Automated Downloader.exe"` file to start the program.
+5. Run the `"9anime Automated Downloader.exe"` file to start the program.  
 
-<br>
+### ###- Watch the [Tutorial](https://www.google.com) on how to use it. -###  
+&nbsp;  
+* * *  
+&nbsp;  
+## About
 
-> Watch the [Tutorial](https://www.google.com) on how to use it.  
+This script is dedicated to those anime suckers out there. **Long Live Anime.**  
 
-<br>
+Any kind of feedback would be helpful. Post any Issues or Suggestions here - [Github](https://github.com/Fantasy-Boss/9anime-Automated-Downloader/issues/new).  
 
-* * *
-<br>
+If you want to support me then you can **[Buy me a coffee](https://www.buymeacoffee.com/FantasyBoss)**.  
+&nbsp;  
 
 
 ## Disclaimer
