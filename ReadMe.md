@@ -65,7 +65,7 @@ Or,
 
 This script is dedicated to those anime suckers out there. **Long Live Anime.**  
 
-Any kind of feedback would be helpful. Post any Issues or Suggestions here - [Github](https://github.com/Fantasy-Boss/9anime-Automated-Downloader/issues/new).  
+Any kind of feedback would be helpful. Post any Issues or Suggestions [here](https://github.com/Fantasy-Boss/9anime-Automated-Downloader/issues/new).  
 
 If you want to support me then you can **[Buy me a coffee](https://www.buymeacoffee.com/FantasyBoss)**.  
 &nbsp;  
@@ -76,3 +76,4 @@ You can also try - [9anime Watch-List Custom Filter](https://github.com/Fantasy-
 ## Disclaimer
 
 This script is not affiliated with 9anime or any of its official partners. Use at your own risk. 
+&nbsp;  
