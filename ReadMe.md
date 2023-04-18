@@ -23,8 +23,10 @@ The ***9anime Automated Downloader*** is a Python script that automates the proc
 -  -  > [9anime.id](https://9anime.id/home)
 -  -  > [9anime.pl](https://9anime.pl/home)
 -  -  > [9anime.gs](https://9anime.gs/home)
-- Bulk download entire series
+- Bulk download entire series with one click.
 - User-friendly interface
+- Download options: Sub - Dub - Video Quality.
+- Fully Free, no Ads, no Virus, 100% Safe
 - Saves time and effort
 
 * * *
@@ -34,6 +36,8 @@ The ***9anime Automated Downloader*** is a Python script that automates the proc
 - Python 3.10.11 or greater.
 - Browser you want to use. (Chrome or Firefox)
 - Internet Download Manager (IDM), with browser integration.
+- Browser AdBlocker Extension. (Skip this if you already have one)
+    > [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb) - [AdBlock_best ad blocker](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom) - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - [AdGuard AdBlocker](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg)
 
 * * *
 
