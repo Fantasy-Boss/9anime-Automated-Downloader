@@ -16,11 +16,11 @@ The ***9anime Automated Downloader*** is a Python script that automates the proc
 ## Features
 
 - Automate the process of downloading from 9anime
--  - List of Supported websites :-
--  -  > [9anime.to](https://9anime.to/home)
--  -  > [9anime.id](https://9anime.id/home)
--  -  > [9anime.pl](https://9anime.pl/home)
--  -  > [9anime.gs](https://9anime.gs/home)
+- - List of Supported websites :-
+- - - [9anime.to](https://9anime.to/home)
+- - - [9anime.id](https://9anime.id/home)
+- - - [9anime.pl](https://9anime.pl/home)
+- - - [9anime.gs](https://9anime.gs/home)
 - Bulk download entire series with one click
 - Download options: Sub - Dub - Video Quality
 - Fully Free, no Ads, no Virus, 100% Safe
