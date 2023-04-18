@@ -26,12 +26,13 @@ The ***9anime Automated Downloader*** is a Python script that automates the proc
 - Download options: Sub - Dub - Video Quality
 - Fully Free, no Ads, no Virus, 100% Safe
 - User-friendly interface
-- Saves time and effort
+- Saves time and effort  
 
 
 ## Requirements
 
-- [Python 3.10.11](https://www.python.org/downloads/release/python-31011/) or greater.
+- Windows Operating System (7, 8, 10, 11)
+- [Python 3.10.11](https://www.python.org/downloads/release/python-31011/) or greater. 
 - Browser you want to use. (Chrome or Firefox)
 - Internet Download Manager (IDM), with browser integration.
 - Browser AdBlocker Extension. (Skip this if you already have one)
@@ -40,21 +41,21 @@ The ***9anime Automated Downloader*** is a Python script that automates the proc
 
 ## How to use
 
-To better understand and use it, watch the [Tutorial](https://www.google.com). (***Highly Recommended***)
+To better understand and use it, watch the [Tutorial](). (***Highly Recommended***)
 
 Or,
 
 1. Install Python 3.10.11 or greater version on your system if you don't already have it installed. You can get it here -> [Python 3.10.11](https://www.python.org/downloads/release/python-31011/).
 
-2. Download the latest release of [***9anime Automated Downloader***](https://www.google.com).
+2. Download the latest release of [***9anime Automated Downloader***](https://github.com/Fantasy-Boss/9anime-Automated-Downloader/raw/main/releases/9anime%20Automated%20Downloader.zip).
 
 3. After downloading extract the zip file and open `"9anime Automated Downloader"` folder.
 
 4. Install all the dependencies by running `"install.bat"` as administrator. [__One time run, but important__]
 
 5. Run the `"9anime Automated Downloader.exe"` file to start the program.  
-
-### ###- Watch the [Tutorial](https://www.google.com) on how to use it. -###  
+&nbsp;  
+### Watch the [Tutorial]() on how to use it.
 &nbsp;  
 * * *  
 &nbsp;  
@@ -66,8 +67,10 @@ Any kind of feedback would be helpful. Post any Issues or Suggestions here - [Gi
 
 If you want to support me then you can **[Buy me a coffee](https://www.buymeacoffee.com/FantasyBoss)**.  
 &nbsp;  
+You can also try - [9anime Watch-List Custom Filter](https://github.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter).  
 
-
+***
+&nbsp;  
 ## Disclaimer
 
 This script is not affiliated with 9anime or any of its official partners. Use at your own risk. 
