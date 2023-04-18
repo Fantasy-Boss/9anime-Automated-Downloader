@@ -3,17 +3,16 @@
   <img src="https://raw.githubusercontent.com/Fantasy-Boss/9anime-Automated-Downloader/main/assets/icon.png">
 </p>
 
-<p align="center">
-    <b style="font-size: 72px;">9anime Automated Downloader</b>
-</p>
+<h1 align="center">9anime Automated Downloader</h1>
 
-* * *
+
 
 ## Description
 
 The ***9anime Automated Downloader*** is a Python script that automates the process of downloading episodes from official 9anime websites. This script is designed to bulk download the whole series, saving you time and effort. It automates all the clicking process required for downloading episodes.
 
-
+***
+&nbsp;  
 ## Features
 
 - Automate the process of downloading from 9anime
@@ -28,7 +27,8 @@ The ***9anime Automated Downloader*** is a Python script that automates the proc
 - User-friendly interface
 - Saves time and effort  
 
-
+***
+&nbsp;  
 ## Requirements
 
 - Windows Operating System (7, 8, 10, 11)
@@ -39,6 +39,8 @@ The ***9anime Automated Downloader*** is a Python script that automates the proc
     > [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb) - [AdBlock_best ad blocker](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom) - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - [AdGuard AdBlocker](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg)
 
 
+***
+&nbsp;  
 ## How to use
 
 To better understand and use it, watch the [Tutorial](). (***Highly Recommended***)
