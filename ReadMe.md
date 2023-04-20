@@ -63,7 +63,7 @@ Or,
 
 5. Run the `"9anime Automated Downloader.exe"` file to start the program.  
 &nbsp;  
-### Watch the [Tutorial]() on how to use it. (***Tutorial Coming Soon***)
+### Watch the Tutorial on how to use it. (***Tutorial Coming Soon***)
 &nbsp;  
 * * *  
 &nbsp;  
