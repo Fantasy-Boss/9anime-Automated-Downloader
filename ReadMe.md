@@ -51,7 +51,7 @@ https://user-images.githubusercontent.com/58109796/233403426-e923e740-77b5-402f-
 
 
 
-Or,
+Installation Steps:
 
 1. Install Python 3.10.11 or greater version on your system if you don't already have it installed. You can get it here -> [Python 3.10.11](https://www.python.org/downloads/release/python-31011/).
 
