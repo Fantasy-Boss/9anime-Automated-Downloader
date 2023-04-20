@@ -75,7 +75,7 @@ Any kind of feedback would be helpful. Post any Issues or Suggestions [here](htt
 
 If you want to support me then you can **[Buy me a coffee](https://www.buymeacoffee.com/FantasyBoss)**.  
 &nbsp;  
-You can also try - [9anime Watch-List Custom Filter](https://github.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter).  
+You can also try - ***[9anime Watch-List Custom Filter](https://github.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter)***.  
 
 ***
 &nbsp;  
