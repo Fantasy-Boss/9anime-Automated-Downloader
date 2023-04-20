@@ -45,11 +45,11 @@ The ***9anime Automated Downloader*** is a Python script that automates the proc
 &nbsp;  
 ## How to use
 
-To better understand and use it, watch the [Tutorial](). (***Tutorial Coming Soon***)
+To better understand and use it, watch the Tutorial. (***Tutorial Coming Soon***)
 
-https://github.com/Fantasy-Boss/9anime-Automated-Downloader/raw/main/assets/Tutorial.mp4
+https://user-images.githubusercontent.com/58109796/233403426-e923e740-77b5-402f-b4e8-ede0934d8ef3.mp4
 
-https://github.com/Fantasy-Boss/9anime-Automated-Downloader/blob/main/assets/Tutorial.mp4
+
 
 Or,
 
