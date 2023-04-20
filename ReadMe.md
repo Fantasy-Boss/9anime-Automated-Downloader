@@ -49,9 +49,9 @@ To better understand and use it, watch the Tutorial. (***Tutorial Coming Soon***
 
 https://user-images.githubusercontent.com/58109796/233403426-e923e740-77b5-402f-b4e8-ede0934d8ef3.mp4
 
+&nbsp;  
 
-
-Installation Steps:
+**Installation Steps:**
 
 1. Install Python 3.10.11 or greater version on your system if you don't already have it installed. You can get it here -> [Python 3.10.11](https://www.python.org/downloads/release/python-31011/).
 
