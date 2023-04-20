@@ -27,6 +27,8 @@ The ***9anime Automated Downloader*** is a Python script that automates the proc
 - User-friendly interface
 - Saves time and effort  
 
+**PS: Currently only `Vidstream` server is available. More servers will be added on [request](https://github.com/Fantasy-Boss/9anime-Automated-Downloader/issues/new?template=feature_request.md&title=Request%20for%20new%20servers). I'll add them later depending on the popularity of this program.**
+
 ***
 &nbsp;  
 ## Requirements
@@ -43,7 +45,11 @@ The ***9anime Automated Downloader*** is a Python script that automates the proc
 &nbsp;  
 ## How to use
 
-To better understand and use it, watch the [Tutorial](). (***Highly Recommended***)
+To better understand and use it, watch the [Tutorial](). (***Tutorial Coming Soon***)
+
+https://github.com/Fantasy-Boss/9anime-Automated-Downloader/raw/main/assets/Tutorial.mp4
+
+https://github.com/Fantasy-Boss/9anime-Automated-Downloader/blob/main/assets/Tutorial.mp4
 
 Or,
 
@@ -57,7 +63,7 @@ Or,
 
 5. Run the `"9anime Automated Downloader.exe"` file to start the program.  
 &nbsp;  
-### Watch the [Tutorial]() on how to use it.
+### Watch the [Tutorial]() on how to use it. (***Tutorial Coming Soon***)
 &nbsp;  
 * * *  
 &nbsp;  
