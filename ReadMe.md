@@ -50,11 +50,6 @@ To better understand and use it, watch the [Tutorial](https://www.youtube.com/wa
 
 [![9anime Automated Downloader Tutorial](https://img.youtube.com/vi/crySDPZ_gf8/hqdefault.jpg)](https://www.youtube.com/watch?v=crySDPZ_gf8)
 
- <iframe width="560" height="315"
-src="https://www.youtube.com/embed/crySDPZ_gf8" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
 
 
 &nbsp;  
@@ -78,7 +73,7 @@ Installation Steps:
 
 This script is dedicated to those anime suckers out there. **Long Live Anime.**  
 
-Any kind of feedback would be helpful. Post any Issues or Suggestions [here](https://github.com/Fantasy-Boss/9anime-Automated-Downloader/issues/new).  
+I don't really use python that much. This is my first python program. So any kind of feedback would be helpful. Post any Issues or Suggestions [here](https://github.com/Fantasy-Boss/9anime-Automated-Downloader/issues/new).  
 
 If you want to support me then you can **[Buy me a coffee](https://www.buymeacoffee.com/FantasyBoss)**.  
 &nbsp;  
