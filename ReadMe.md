@@ -45,13 +45,20 @@ The ***9anime Automated Downloader*** is a Python script that automates the proc
 &nbsp;  
 ## How to use
 
-To better understand and use it, watch the Tutorial. (***Tutorial Coming Soon***)
+To better understand and use it, watch the [Tutorial](https://www.youtube.com/watch?v=crySDPZ_gf8).
 
-https://user-images.githubusercontent.com/58109796/233403426-e923e740-77b5-402f-b4e8-ede0934d8ef3.mp4
+
+[![9anime Automated Downloader Tutorial](https://img.youtube.com/vi/crySDPZ_gf8/hqdefault.jpg)](https://www.youtube.com/watch?v=crySDPZ_gf8)
+
+ <iframe width="560" height="315"
+src="https://www.youtube.com/embed/crySDPZ_gf8" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
 
 &nbsp;  
-
-**Installation Steps:**
+Installation Steps:
 
 1. Install Python 3.10.11 or greater version on your system if you don't already have it installed. You can get it here -> [Python 3.10.11](https://www.python.org/downloads/release/python-31011/).
 
@@ -63,7 +70,7 @@ https://user-images.githubusercontent.com/58109796/233403426-e923e740-77b5-402f-
 
 5. Run the `"9anime Automated Downloader.exe"` file to start the program.  
 &nbsp;  
-### Watch the Tutorial on how to use it. (***Tutorial Coming Soon***)
+### Watch the [Tutorial](https://www.youtube.com/watch?v=crySDPZ_gf8) on how to use it.
 &nbsp;  
 * * *  
 &nbsp;  
@@ -75,7 +82,7 @@ Any kind of feedback would be helpful. Post any Issues or Suggestions [here](htt
 
 If you want to support me then you can **[Buy me a coffee](https://www.buymeacoffee.com/FantasyBoss)**.  
 &nbsp;  
-You can also try - ***[9anime Watch-List Custom Filter](https://github.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter)***.  
+You can also try - [9anime Watch-List Custom Filter](https://github.com/Fantasy-Boss/9anime-Watch-List-Custom-Filter).  
 
 ***
 &nbsp;  
