@@ -40,6 +40,7 @@ The ***9anime Automated Downloader*** is a Python script that automates the proc
 - Browser AdBlocker Extension. (Skip this if you already have one)
     > [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb) - [AdBlock_best ad blocker](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom) - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - [AdGuard AdBlocker](https://chrome.google.com/webstore/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg)
 
+**PS: Don't use any color theme on the website. Just disable it for only this website.** (ex. Dark Theme, Dark Reader etc.)
 
 ***
 &nbsp;  
