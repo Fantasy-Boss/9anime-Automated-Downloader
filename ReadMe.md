@@ -7,6 +7,8 @@
 
 <br>
 <h1 align="center"><< Currently Under Development >></h1>
+<h4 align="center">Currently only supports 1366×720 (720p) resolution screen.</h4>
+
 
 
 ## Description
